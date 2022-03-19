@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Rishabh Jain
 
 - 🔭 I’m currently working on web development Projects
-- 👀 I’m interested in Web Developing and Competetive Programming
-- 🌱 I’m currently learning DSA and Web developing
+- 👀 I’m interested in Web Developing and Problem Solving
+- 🌱 I’m currently learning DSA and Web development
 - 👯 I’m looking to collaborate on Web Development project
 - 📫 Reach me on linkedin at www.linkedin.com/in/rishabh-jain-rj8
 
