@@ -1,4 +1,4 @@
-### Hi there �, I am Rishabh Jain
+### Hi there 👋, I am Rishabh Jain
 
 - 🔭 I’m currently working on web development Projects
 - 👀 I’m interested in Web Developing and Competetive Programming
@@ -17,6 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 </p>
